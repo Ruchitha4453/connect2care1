@@ -1,6 +1,7 @@
-# connect_2_care
-
-A new Flutter project.
+Connect2Care is a healthtech app especially designed for Hospital Management System . 
+To get started with this 
+Install Android Studio
+Run using Android Device Manager
 
 ## Getting Started
 
